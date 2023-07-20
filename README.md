@@ -2,7 +2,7 @@
 
 
 #### VERSION: 1.0.0
-#### Apk
+### APK File:
 <a href="https://github.com/SeyyedAmirNimaGhaebi/BMI-Project/releases/tag/BMI">Download the apk file</a>
 
 ## Watch video from the app
