@@ -10,7 +10,7 @@
 
 # Photo Gallery
 
-![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/BMI-Project/assets/124828880/81a50552-c12c-4de7-bcea-a6c97a3b4472)
+![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui/assets/124828880/b4ae7adc-aa57-42ee-9cf2-4af20e1f355f)
 
 
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/BMI-Project/assets/124828880/81a50552-c12c-4de7-bcea-a6c97a3b4472)
