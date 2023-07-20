@@ -16,4 +16,4 @@
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui/assets/124828880/c8de9c6e-2e8c-46fd-ab2f-2f40b11b889a)
 
 
-![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/BMI-Project/assets/124828880/81a50552-c12c-4de7-bcea-a6c97a3b4472)
+![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui/assets/124828880/bb9702e5-816b-4327-b8a3-e405f81c673a)
