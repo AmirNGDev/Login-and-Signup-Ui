@@ -8,6 +8,9 @@
 ## Watch video from the app
 <a href="https://aparat.com/v/t5mos">Watch on Aparat</a>
 
+# Preview video
+https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui/blob/main/assets/Video/Login%20and%20Signup%20UI%20music.mp4
+
 # Photo Gallery
 
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui/assets/124828880/b4ae7adc-aa57-42ee-9cf2-4af20e1f355f)
