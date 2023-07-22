@@ -5,10 +5,11 @@
 ### APK File:
 <a href="https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui/releases/tag/login">Download the apk file</a>
 
-## Watch video from the app
+# Preview video
 <a href="https://aparat.com/v/t5mos">Watch on Aparat</a>
 
-# Preview video
+https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui/assets/124828880/7f120d48-a512-496b-af90-58a16ad0d713
+
 
 
 # Photo Gallery
